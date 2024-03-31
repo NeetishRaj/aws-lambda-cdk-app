@@ -1,4 +1,4 @@
-# AWS CDK sample for Nodejs Lmabda function with a url
+# AWS CDK sample for Nodejs Lambda function with a url
 
 
 
